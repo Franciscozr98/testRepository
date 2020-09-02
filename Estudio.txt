@@ -1,0 +1,26 @@
+Estudio 2020
+Horario 8 a 2
+	Cursos		1.5
+	Residencias	1.5
+	Estudio EA	3
+
+Dias a la semana: 6
+horas al dia: 6
+
+Dias para el examen (7 de noviembre): 81 dias
+12 semanas
+71 dias reales
+
+Materias para estudiar: 9
+Materia		Preguntas
+
+1Español 		18
+				5Física		10
+2Matemáticas	24
+		3Literatura		10
+					8Geografía	10
+					7Biología		10
+		4Química		10
+				6Historia universal	14
+						9Historia de México	14
+
